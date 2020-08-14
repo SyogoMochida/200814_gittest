@@ -1,5 +1,7 @@
 # git test
-# 2020.08.14 udemy
+# 2020.08.14 @ MacBook Pro
+
+#Myscripts
 
 def my_sum(a,b):
     
@@ -15,3 +17,5 @@ def main():
 if __name__ == "__main__":
     main()
 
+
+#End
