@@ -18,6 +18,7 @@ def main():
 
     print("sum is {0}".format(my_sum(a,b)))
     print("dif is {0}".format(my_dif(a,b)))
+    print("githubflow")
 
 if __name__ == "__main__":
     main()
